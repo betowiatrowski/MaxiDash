@@ -7,7 +7,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 * [Planejamento da Release](#Planejamento-da-Release)
 * [Representação da Arquitetura](#Representação-da-Arquitetura)
 * [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
-* [Testes e Validação](#Testes-e-Validação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Testes e Validação](#Testes-e-Validação)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
