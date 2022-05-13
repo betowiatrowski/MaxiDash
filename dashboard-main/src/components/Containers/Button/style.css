@@ -1,0 +1,28 @@
+.btn {
+    color: white;
+    padding: 14px 20px;    
+    margin: 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+.confirm {
+  background-color: #4CAF50;
+}
+
+.cancel {
+  background-color: #DA0D0D;
+}
+
+.small {
+  width: 150px;
+}
+
+.half {
+  width: 40%;
+}
+
+.full {
+  width: 100%;
+}
