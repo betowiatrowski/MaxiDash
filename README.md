@@ -15,3 +15,10 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+* 
+* [Canvas do Produto]
+Planejamento da Release
+Representação da Arquitetura
+Desenvolvimento da Solução
+Testes e Validação
+POSTMORTEM
