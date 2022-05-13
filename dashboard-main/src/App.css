@@ -1,0 +1,18 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #EAEDEE;
+}
+
+.App {
+  display: flex;
+  height: 100%;
+}
+
+.blur-bg {
+  height: 100%;
+  width: 100%;
+  opacity: 0.5;
+  position: absolute;
+}
