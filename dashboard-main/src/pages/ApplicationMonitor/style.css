@@ -1,0 +1,28 @@
+#busca {
+    margin-left: 40px;
+    width: 400px;
+    font-family: 'Inter';
+}
+
+#busca:focus {
+    padding-left: 50px;
+    margin-left: 0;    
+}
+
+.icone-pesquisa, .icone-fechar {
+    position: absolute;
+    padding-top: 6px;    
+}
+
+.icone-pesquisa {
+    padding-left: 15px;
+}
+
+.icone-fechar {
+    margin-left: 300px;
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
