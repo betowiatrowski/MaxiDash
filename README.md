@@ -9,7 +9,6 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 * [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Testes e Validação](#Testes-e-Validação)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#conclusão)
 
 ## Autor
