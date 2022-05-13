@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\natanielv\source\repos\MaxiDash\MaxiDash\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-03-11T18:06:40.9410927Z;True|2022-03-10T17:01:47.4912854-03:00;True|2022-03-10T17:01:37.9900751-03:00;True|2022-03-10T16:32:52.2782894-03:00;True|2022-03-07T15:48:15.4582531-03:00;False|2022-03-07T15:48:07.2606452-03:00;True|2022-03-07T14:50:50.5214495-03:00;True|2022-03-07T13:50:48.0767434-03:00;True|2022-03-07T13:37:03.3682064-03:00;True|2022-03-03T17:09:47.2849330-03:00;True|2022-03-03T17:07:54.4410410-03:00;True|2022-02-24T17:26:00.9670457-03:00;True|2022-02-24T17:22:55.3068955-03:00;True|2022-02-22T11:15:41.7628663-03:00;True|2022-02-22T11:00:08.4703844-03:00;</History>
+  </PropertyGroup>
+</Project>
