@@ -24,21 +24,38 @@
   		
 <h1 align="center"> Documentação e Artefatos </h1>
 
-Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento,validação e conclusões.			    
-							   
-					    
+## 💻 Sobre o projeto
 
-### Features
+MaxiDash- Trata-se de uma dashboard onde será possível acompanhar a execução das principais aplicações que rodam de forma autônoma na da empresa.
+
+---			    							   			    
+
+### Funcionalidades
 
 - [x] Login de usuário
 - [x] Cadastro de Aplicações
-- [x] Edição de aplicações
-- [x] Cadastro de agendamentos
+	- [x] Edição de aplicações
+	- [x] Cadastro de agendamentos
+	- [x] Alteração e exclusão de agendamentos
 - [x] Monitor de aplicações
-- [x] Info de aplicações
-- [x] Detalhamento de Log's
+	- [x] Info de aplicações
+	- [x] Decrição da aplicação
+	- [x] Tipo de aplicação
+	- [x] Última Execussão
+	- [x] Detalhamento de log's
+	- [x] Tipo de Alerta
+	- [x] Edição da aplicação
+- [x] Busca de aplicação cadastrada
 - [x] Relatórios Sistêmicos
 - [ ] Relatórios Gerenciais
+
+## 🎨 Layout
+
+Layout da aplicação:
+
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/Layout.PNG">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/Layout.PNG"">
+</a>
 
 ### 🛠 Tecnologias utilizadas
 
