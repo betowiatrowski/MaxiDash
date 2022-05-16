@@ -67,13 +67,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Router dom](https://www.w3schools.com/react/react_router.asp) 
 - [C# (CSharp)](https://docs.microsoft.com/pt-br/dotnet/csharp/) 
 
-## [Canvas](#Canvas)
+## [Canvas](#canvas.png)
 ## [Planejamento da Release](#Planejamento-da-Release)
 ## [Representação da Arquitetura](#Representação-da-Arquitetura)
 ## [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
 ## [Testes e Validação](#Testes-e-Validação)
 ## [Conclusão](#conclusão)
 
+											    
 ## 🦸 Autor							     
 <a href="https://avatars.githubusercontent.com/u/18116192?s=40&v=4/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/18116192?s=40&v=4" width="100px;" alt=""/>
