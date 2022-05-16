@@ -3,7 +3,7 @@
 Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
 
 
-## [Canvas](canvas-do-produto.md)
+## [Canvas](Canvas MVP MaxiDash.pdf)
 ## [Planejamento da Release](#Planejamento-da-Release)
 ## [Representação da Arquitetura](#Representação-da-Arquitetura)
 ## [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
