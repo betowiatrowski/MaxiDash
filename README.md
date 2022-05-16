@@ -67,7 +67,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Router dom](https://www.w3schools.com/react/react_router.asp) 
 - [C# (CSharp)](https://docs.microsoft.com/pt-br/dotnet/csharp/) 
 
-## [Canvas](#canvas.png)
+## 📌 Canvas
+
+Layout da aplicação:
+
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
+</a>
+
 ## [Planejamento da Release](#Planejamento-da-Release)
 ## [Representação da Arquitetura](#Representação-da-Arquitetura)
 ## [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
