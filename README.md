@@ -1,14 +1,32 @@
-<h1 align="center"> Documentação e Artefatos </h1>
 
-Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento,validação e conclusões.
+<p align="center">
+	<h1 align="center">
+	  <img alt="MaxiDash" title="#MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/banner.PNG" />
+	</h1>
+</p>
 
-<h1 align="center">
-  <img alt="NextLevelWeek" title="MaxiDash" src="./assets/banner.png" />
-</h1>
-
-<h4 align="left"> 
+<h4 align="center"> 
 	🚧  MaxiDash 🚀 Em construção...  🚧
 </h4>
+
+<p align="center">
+ <a href="#-sobre-o-projeto">Sobre</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
+ <a href="#-contribuidores">Contribuidores</a> • 
+ <a href="#-autor">Autor</a> • 
+ <a href="#user-content--licença">Licença</a>
+</p>
+
+	
+  		
+<h1 align="center"> Documentação e Artefatos </h1>
+
+Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento,validação e conclusões.			    
+							   
+					    
 
 ### Features
 
