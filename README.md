@@ -2,6 +2,10 @@
 
 Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento,validação e conclusões.
 
+<h1 align="center">
+  <img alt="NextLevelWeek" title="MaxiDash" src="./assets/banner.png" />
+</h1>
+
 <h4 align="left"> 
 	🚧  MaxiDash 🚀 Em construção...  🚧
 </h4>
