@@ -69,7 +69,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📌 Canvas
 
-Layout da aplicação:
+Canvas da aplicação:
 
 <a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
