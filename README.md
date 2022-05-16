@@ -81,5 +81,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
  <sub><b>Gilberto Wiatrowski</b></sub></a> 
  
 [![Twitter Badge](https://img.shields.io/badge/-@beto.wiatrowski-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/beto.wiatrowski)](https://twitter.com/beto.wiatrowski)
-[![Linkedin Badge](https://img.shields.io/badge/-Gilberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beto.wiatrowski/)](https://www.linkedin.com/in/beto.wiatrowski/) [![Gmail Badge](https://img.shields.io/badge/-beto.wiatrowski@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beto.wiatrowski@gmail.com)](mailto:beto.wiatrowski@gmail.com)														       
+[![Linkedin Badge](https://img.shields.io/badge/-Gilberto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilberto-wiatrowski-41b2b286/)](https://www.linkedin.com/in/gilberto-wiatrowski-41b2b286/) [![Gmail Badge](https://img.shields.io/badge/-beto.wiatrowski@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:beto.wiatrowski@gmail.com)](mailto:beto.wiatrowski@gmail.com)														       
 														
