@@ -1,6 +1,6 @@
 <h1 align="center"> Documentação e Artefatos </h1>
 
-Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento, testes/validação e conclusões.
+Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento,validação e conclusões.
 
 
 ## [Canvas](#Canvas)
