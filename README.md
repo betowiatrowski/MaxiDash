@@ -2,6 +2,34 @@
 
 Esse documento tem como objetivo apresentar e descrever o projeto final, fornecendo informações e artefatos sobre a concepção do produto, o seu planejamento, as decisões arquiteturais, desenvolvimento,validação e conclusões.
 
+<h4 align="left"> 
+	🚧  MaxiDash 🚀 Em construção...  🚧
+</h4>
+
+### Features
+
+- [x] Login de usuário
+- [x] Cadastro de Aplicações
+- [x] Edição de aplicações
+- [x] Cadastro de agendamentos
+- [x] Monitor de aplicações
+- [x] Info de aplicações
+- [x] Detalhamento de Log's
+- [x] Relatórios Sistêmicos
+- [ ] Relatórios Gerenciais
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Swagger](https://swagger.io/)
+- [Reactjs](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Mysql](https://dev.mysql.com/doc/)
+- [Github Actions](https://github.com/features/actions) 
+- [Visual Studio Code](https://code.visualstudio.com/) 
+- [React Router dom](https://www.w3schools.com/react/react_router.asp) 
+- [C# (CSharp)](https://docs.microsoft.com/pt-br/dotnet/csharp/) 
 
 ## [Canvas](#Canvas)
 ## [Planejamento da Release](#Planejamento-da-Release)
