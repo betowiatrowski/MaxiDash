@@ -18,7 +18,7 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 - [x] Relatórios Sistêmicos
 - [ ] Relatórios Gerenciais
 
-### 🛠 Tecnologias
+### 🛠 Tecnologias utilizadas
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -35,7 +35,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## [Planejamento da Release](#Planejamento-da-Release)
 ## [Representação da Arquitetura](#Representação-da-Arquitetura)
 ## [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
-## [Tecnologias utilizadas](#tecnologias-utilizadas)
 ## [Testes e Validação](#Testes-e-Validação)
 ## [Conclusão](#conclusão)
 
