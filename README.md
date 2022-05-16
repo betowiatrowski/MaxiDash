@@ -14,8 +14,7 @@
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
   <a href="#-tecnologias">Tecnologias</a> •  
- <a href="#-autor">Autor</a> • 
- <a href="#user-content--licença">Licença</a>
+ <a href="#-autor">Autor</a> •  
 </p>
 
 	
@@ -55,7 +54,7 @@ Layout da aplicação:
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/Layout.PNG"">
 </a>
 
-### 🛠 Tecnologias utilizadas
+### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
