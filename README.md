@@ -66,6 +66,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Visual Studio Code](https://code.visualstudio.com/) 
 - [React Router dom](https://www.w3schools.com/react/react_router.asp) 
 - [C# (CSharp)](https://docs.microsoft.com/pt-br/dotnet/csharp/) 
+- [Chartjs](https://www.chartjs.org/) 
+											    
 
 ## 📌 Canvas
 
