@@ -27,7 +27,7 @@ MaxiDash- Trata-se de uma dashboard onde será possível acompanhar a execução
 
 ---			    							   			    
 
-### Funcionalidades
+## Funcionalidades
 
 - [x] Login de usuário
 - [x] Cadastro de Aplicações
