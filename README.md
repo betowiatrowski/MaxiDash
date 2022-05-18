@@ -77,8 +77,12 @@ Canvas da aplicação:
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
 </a>
 
+## ⚙ Arquitetura
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/arquitetura.PNG">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/arquitetura.PNG"">
+</a>
+											    
 ## [Planejamento da Release](#Planejamento-da-Release)
-## [Representação da Arquitetura](#Representação-da-Arquitetura)
 ## [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
 ## [Testes e Validação](#Testes-e-Validação)
 ## [Conclusão](#conclusão)
