@@ -104,6 +104,7 @@ Para a validação do projeto, além de considerar os objetivos a serem atingido
 Assim, escolhi algumas características que fossem possíveis que os usuários fizessem uma avaliação de acordo com sua experiência de uso do sistema, a avaliação foi realizada através de um formulário do Google, as seguintes características segundo o modelo foram avaliadas: Adequação Funcional, Eficiência de desempenho, Usabilidade, Confiabilidade e Segurança. Portanto, concluí que de acordo com as avaliações dos usuários que acessaram o sistema e utilizaram a ferramenta pela primeira vez, o sistema atendeu às expectativas (conforme demonstrado nas imagens abaixo).
 												 
 Usabilidade:												 
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/18116192?s=40&v=4" width="100px;" alt=""/>		
 												 
 ## [Conclusão](#conclusão)
 											 
