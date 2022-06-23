@@ -10,11 +10,13 @@
 </h4>
 
 <p align="center">
- <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-Funcionalidades">Funcionalidades</a> •
- <a href="#-layout">Layout</a> • 
-  <a href="#-tecnologias">Tecnologias</a> •  
- <a href="#-autor">Autor</a> •  
+ 	<a href="#-sobre-o-projeto">Sobre</a> •
+ 	<a href="#Funcionalidades">Funcionalidades</a> •
+ 	<a href="#-layout">Layout</a> • 
+ 	<a href="#-tecnologias">Tecnologias</a> •  
+ 	<a href="#-validação">Validação</a> • 	
+ 	<a href="#conclusão">Conclusão</a> • 
+ 	<a href="#-autor">Autor</a> •  	
 </p>
 
 	
@@ -87,11 +89,12 @@ Arquitetura utilizada:
 											    
 ## [Planejamento da Release](#Planejamento-da-Release)
 ## [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
-## [Testes e Validação](#Testes-e-Validação)
-## [Conclusão](#conclusão)
-
-Conclusão:
 												 
+## [Validação](#validacao)
+												 
+												 
+## [Conclusão](#conclusão)
+											 
 Por fim, posso concluir que o projeto piloto foi aprovado de acordo com as validações feitas e pelos feedbacks positivos que recebi dos usuários (Analista de suporte, Coordenador de vendas, Coordenador de cobrança e Diretor de operações).
 												 
 Além disso, analisando os dados gerados na aplicação e validando os números disponíveis na base de dados, posso concluir que o sistema está sendo bem utilizado e vem atendendo as necessidades do usuário final com uma entrega que vem gerando valor.
