@@ -90,6 +90,16 @@ Arquitetura utilizada:
 ## [Testes e Validação](#Testes-e-Validação)
 ## [Conclusão](#conclusão)
 
+Conclusão:
+												 
+Por fim, posso concluir que o projeto piloto foi aprovado de acordo com as validações feitas e pelos feedbacks positivos que recebi dos usuários (Analista de suporte, Coordenador de vendas, Coordenador de cobrança e Diretor de operações).
+												 
+Além disso, analisando os dados gerados na aplicação e validando os números disponíveis na base de dados, posso concluir que o sistema está sendo bem utilizado e vem atendendo as necessidades do usuário final com uma entrega que vem gerando valor.
+												 
+Hoje o sistema tem 10 usuários, 42 rotinas monitoradas e alguns relatórios gerados no sistema MaxiDash.
+												 
+Portanto, diante desses números e dos feedbacks recebidos, posso concluir que o MaxiDash atendeu aos requisitos funcionais e não funcionais e entregou valor ao usuário final, com a ideia de um MVP de uma plataforma para fazer todo o gerenciamento log's gerados por aplicações e na geração de relatórios gerenciais.												 
+
 											    
 ## 🦸 Autor							     
 <a href="https://avatars.githubusercontent.com/u/18116192?s=40&v=4/">
