@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'Slabo';
-    src: local('Slabo'), url(./assets/fonts/slabo/Slabo13px-Regular.ttf) format('truetype');
-}
-
-@font-face {
-    font-family: 'Inter';
-    src: local('Inter'), url(./assets/fonts/inter/Inter.ttf) format('truetype');
-}
