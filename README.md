@@ -14,7 +14,7 @@
  	<a href="#Funcionalidades">Funcionalidades</a> •
  	<a href="#-layout">Layout</a> • 
  	<a href="#-tecnologias">Tecnologias</a> •  
- 	<a href="#-validacao">Validação</a> • 	
+ 	<a href="#validacao">Validação</a> • 	
  	<a href="#conclusão">Conclusão</a> • 
  	<a href="#-autor">Autor</a> •  	
 </p>
