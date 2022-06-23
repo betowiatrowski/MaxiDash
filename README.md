@@ -99,7 +99,11 @@ Para a validação do projeto, além de considerar os objetivos a serem atingido
 4. Usabilidade
 5. Confiabilidade
 6. Segurança
-7. Manutenção / Manutenibilidade												 
+7. Manutenção / Manutenibilidade	
+
+Assim, escolhi algumas características que fossem possíveis que os usuários fizessem uma avaliação de acordo com sua experiência de uso do sistema, a avaliação foi realizada através de um formulário do Google, as seguintes características segundo o modelo foram avaliadas: Adequação Funcional, Eficiência de desempenho, Usabilidade, Confiabilidade e Segurança. Portanto, concluí que de acordo com as avaliações dos usuários que acessaram o sistema e utilizaram a ferramenta pela primeira vez, o sistema atendeu às expectativas (conforme demonstrado nas imagens abaixo).
+												 
+Usabilidade:												 
 												 
 ## [Conclusão](#conclusão)
 											 
