@@ -108,6 +108,19 @@ Assim, escolhi algumas características que fossem possíveis que os usuários f
 <a href="https://github.com/betowiatrowski/MaxiDash/blob/main/usabilidade.png">
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/usabilidade.png"">
 </a>
+
+<strong> Confiabilidade:</strong>
+												 
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/confiabilidade.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/confiabilidade.png"">
+</a>
+
+<strong> Segurança:</strong>
+												 
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/segurança.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/segurança.png"">
+</a>											   
+												   
 												 
 ## [Conclusão](#conclusão)
 											 
