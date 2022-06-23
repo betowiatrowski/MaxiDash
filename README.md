@@ -117,8 +117,8 @@ Assim, escolhi algumas características que fossem possíveis que os usuários f
 
 <strong> Segurança:</strong>
 												 
-<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/segurança.png">
-  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/segurança.png"">
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/seguranca.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/seguranca.png"">
 </a>											   
 												   
 												 
