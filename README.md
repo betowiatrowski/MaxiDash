@@ -87,13 +87,19 @@ Arquitetura utilizada:
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/Arquitetura.png"">
 </a>
 											    
-## [Planejamento da Release](#Planejamento-da-Release)
 ## [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
 												 
 ## [Validação](#validação)
-
-Por fim, posso concluir que o projeto piloto foi aprovado de acordo com as validações feitas e pelos feedbacks positivos que recebi dos usuários (Analista de suporte, Coordenador de vendas, Coordenador de cobrança e Diretor de operações).
 												 
+Para a validação do projeto, além de considerar os objetivos a serem atingidos, fiz utilização da ISO/IEC 25000 com ênfase no modelo 25010 de qualidade que compreende 7 principais características de qualidades e algumas sub-características, sendo as principais:
+												 
+1. Adequação Funcional
+2. Eficiência de Desempenho
+3. Compatibilidade
+4. Usabilidade
+5. Confiabilidade
+6. Segurança
+7. Manutenção / Manutenibilidade												 
 												 
 ## [Conclusão](#conclusão)
 											 
