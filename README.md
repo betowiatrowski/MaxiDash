@@ -91,6 +91,8 @@ Arquitetura utilizada:
 ## [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
 												 
 ## [Validação](#validacao)
+
+												 Por fim, posso concluir que o projeto piloto foi aprovado de acordo com as validações feitas e pelos feedbacks positivos que recebi dos usuários (Analista de suporte, Coordenador de vendas, Coordenador de cobrança e Diretor de operações).
 												 
 												 
 ## [Conclusão](#conclusão)
