@@ -18,7 +18,7 @@
 	<a href="#%EF%B8%8F-dercrição-da-solução">Descrição da Solução</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-tecnologias">Tecnologias</a> •  
- 	<a href="#validação">Validação</a> • 	
+ 	<a href="#-validação">Validação</a> • 	
  	<a href="#conclusão">Conclusão</a> • 
  	<a href="#-autor">Autor</a> •  	
 </p>
