@@ -106,7 +106,7 @@ Arquitetura utilizada:
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/Arquitetura.png"">
 </a>
 											    
-## [Dercrição da Solução](#Descrição da Solução)
+## ⚙ Dercrição da Solução
 												 
 O Maxidash é uma aplicação web construída para fazer o gerenciamento de log’s de sistema e acompanhamento de relatórios. Através dele, é possível cadastrar um novo sistema e fazer o gerenciamento dos logs de execuções, para que os log’s sejam enviados para a aplicação MaxiDash, é necessário a inclusão de referencia a uma DLL no sistema que está sendo cadastrado.
 
