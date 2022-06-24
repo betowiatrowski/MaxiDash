@@ -14,7 +14,7 @@
  	<a href="#Funcionalidades">Funcionalidades</a> •
 	<a href="#-é-não-é-faz-não-faz">É não é Faz Não Faz</a> •
 	<a href="#-canvas">Canvas</a> •
-	<a href="#ModeloER">Modelo do Banco</a> •
+	<a href="#-modelo-er">Modelo do Banco</a> •
 	<a href="#DescricaoSolucao">Descrição da Solução</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-tecnologias">Tecnologias</a> •  
@@ -75,11 +75,6 @@ Modelo do banco de dados
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/Modelo%20ER.png"">
 </a>
 											    
-Canvas da aplicação:
-
-<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
-  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
-</a>
 
 ## 🎨 Layout
 
