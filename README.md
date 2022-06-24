@@ -13,7 +13,7 @@
  	<a href="#-sobre-o-projeto">Sobre</a> •
  	<a href="#Funcionalidades">Funcionalidades</a> •
 	<a href="#-é-não-é-faz-não-faz">É não é Faz Não Faz</a> •
-	<a href="#Canvas">Canvas</a> •
+	<a href="#-canvas">Canvas</a> •
 	<a href="#ModeloER">Modelo do Banco</a> •
 	<a href="#DescricaoSolucao">Descrição da Solução</a> •
 	<a href="#-layout">Layout</a> • 
