@@ -67,7 +67,19 @@ Canvas da aplicação:
 <a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
 </a>
+
+## 💱 Modelo ER
+Modelo do banco de dados
+
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
+</a>
 											    
+Canvas da aplicação:
+
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
+</a>
 
 ## 🎨 Layout
 
