@@ -12,8 +12,11 @@
 <p align="center">
  	<a href="#-sobre-o-projeto">Sobre</a> •
  	<a href="#Funcionalidades">Funcionalidades</a> •
+	<a href="#EnaoE-FazNaoFaz">É não é Faz Não Faz</a> •
 	<a href="#Canvas">Canvas</a> •
- 	<a href="#-layout">Layout</a> • 
+	<a href="#ModeloER">Modelo do Banco</a> •
+	<a href="#DescricaoSolucao">Descrição da Solução</a> •
+	<a href="#-layout">Layout</a> • 
  	<a href="#-tecnologias">Tecnologias</a> •  
  	<a href="#validação">Validação</a> • 	
  	<a href="#conclusão">Conclusão</a> • 
