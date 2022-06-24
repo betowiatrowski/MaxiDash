@@ -47,6 +47,7 @@ MaxiDash- Trata-se de uma dashboard onde será possível acompanhar a execução
 - [x] Busca de aplicação cadastrada
 - [x] Relatórios Sistêmicos
 - [ ] Relatórios Gerenciais
+- [ ] Relatórios Analíticos de motivos de falhas de aplicações
 
 ## 🎨 Layout
 
