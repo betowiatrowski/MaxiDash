@@ -15,7 +15,7 @@
 	<a href="#-é-não-é-faz-não-faz">É não é Faz Não Faz</a> •
 	<a href="#-canvas">Canvas</a> •
 	<a href="#-modelo-er">Modelo do Banco</a> •
-	<a href="#-dercrição-da-solução">Descrição da Solução</a> •
+	<a href="#%EF%B8%8F-dercrição-da-solução">Descrição da Solução</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-tecnologias">Tecnologias</a> •  
  	<a href="#validação">Validação</a> • 	
