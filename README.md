@@ -53,6 +53,13 @@ MaxiDash- Trata-se de uma dashboard onde será possível acompanhar a execução
 - [ ] Relatórios Gerenciais
 - [ ] Relatórios Analíticos de motivos de falhas de aplicações
 
+## ✔ É não é Faz não Faz
+
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/%C3%89%20n%C3%A3o%20%C3%89%20Faz%20N%C3%A3o%20faz.PNG"">
+</a>
+
+
 ## 📌 Canvas
 
 Canvas da aplicação:
