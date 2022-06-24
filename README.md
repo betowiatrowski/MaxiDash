@@ -55,7 +55,7 @@ MaxiDash- Trata-se de uma dashboard onde será possível acompanhar a execução
 
 ## ✔ É não é Faz não Faz
 
-<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/%C3%89%20n%C3%A3o%20%C3%89%20Faz%20N%C3%A3o%20faz.PNG">
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/%C3%89%20n%C3%A3o%20%C3%89%20Faz%20N%C3%A3o%20faz.PNG"">
 </a>
 
@@ -71,8 +71,8 @@ Canvas da aplicação:
 ## 💱 Modelo ER
 Modelo do banco de dados
 
-<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
-  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/Modelo%20ER.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/Modelo%20ER.png"">
 </a>
 											    
 Canvas da aplicação:
