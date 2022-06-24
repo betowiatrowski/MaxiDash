@@ -12,6 +12,7 @@
 <p align="center">
  	<a href="#-sobre-o-projeto">Sobre</a> •
  	<a href="#Funcionalidades">Funcionalidades</a> •
+	<a href="#Canvas">Canvas</a> •
  	<a href="#-layout">Layout</a> • 
  	<a href="#-tecnologias">Tecnologias</a> •  
  	<a href="#validação">Validação</a> • 	
@@ -49,6 +50,15 @@ MaxiDash- Trata-se de uma dashboard onde será possível acompanhar a execução
 - [ ] Relatórios Gerenciais
 - [ ] Relatórios Analíticos de motivos de falhas de aplicações
 
+## 📌 Canvas
+
+Canvas da aplicação:
+
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
+</a>
+											    
+
 ## 🎨 Layout
 
 Layout da aplicação:
@@ -71,14 +81,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [C# (CSharp)](https://docs.microsoft.com/pt-br/dotnet/csharp/) 
 - [Chartjs](https://www.chartjs.org/) 
 											    
-
-## 📌 Canvas
-
-Canvas da aplicação:
-
-<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
-  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
-</a>
 
 ## ⚙ Arquitetura
 
