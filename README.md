@@ -59,7 +59,6 @@ MaxiDash- Trata-se de uma dashboard onde será possível acompanhar a execução
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/%C3%89%20n%C3%A3o%20%C3%89%20Faz%20N%C3%A3o%20faz.PNG"">
 </a>
 
-
 ## 📌 Canvas
 
 Canvas da aplicação:
@@ -107,7 +106,14 @@ Arquitetura utilizada:
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/Arquitetura.png"">
 </a>
 											    
-## [Desenvolvimento da Solução](#Desenvolvimento-da-Solução)
+## [Dercrição da Solução](#Descrição da Solução)
+												 
+O Maxidash é uma aplicação web construída para fazer o gerenciamento de log’s de sistema e acompanhamento de relatórios. Através dele, é possível cadastrar um novo sistema e fazer o gerenciamento dos logs de execuções, para que os log’s sejam enviados para a aplicação MaxiDash, é necessário a inclusão de referencia a uma DLL no sistema que está sendo cadastrado.
+
+O Maxidash é uma aplicação web construída para fazer o gerenciamento de log’s de sistema e acompanhamento de relatórios. Através dele, é possível cadastrar um novo sistema e fazer o gerenciamento dos logs de execuções, para que os log’s sejam enviados para a aplicação MaxiDash, é necessário a inclusão de referencia a uma DLL no sistema que está sendo cadastrado.
+
+Quanto ao fluxo de funcionamento, vou apresentar à seguir uma descrição detalhada sobre os passos que o usuário deve realizar para cadastrar um sistema ou evento de banco de banco de dados, avaliar um log de crítica e visualizar um relatórios.
+												 
 												 
 ## [Validação](#validação)
 												 
