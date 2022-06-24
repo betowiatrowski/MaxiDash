@@ -13,6 +13,7 @@
  	<a href="#-sobre-o-projeto">Sobre</a> •
  	<a href="#Funcionalidades">Funcionalidades</a> •
 	<a href="#-é-não-é-faz-não-faz">É não é Faz Não Faz</a> •
+	<a href="#-solucao">Solução</a> •
 	<a href="#-canvas">Canvas</a> •
 	<a href="#-modelo-er">Modelo do Banco</a> •
 	<a href="#%EF%B8%8F-dercrição-da-solução">Descrição da Solução</a> •
@@ -59,6 +60,13 @@ MaxiDash- Trata-se de uma dashboard onde será possível acompanhar a execução
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/%C3%89%20n%C3%A3o%20%C3%89%20Faz%20N%C3%A3o%20faz.PNG"">
 </a>
 
+## 🏷️ Solução	
+																        
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/descricaoSolucao.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/descricaoSolucao.png"">
+</a>
+																       
+																       
 ## 📌 Canvas
 
 Canvas da aplicação:
