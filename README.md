@@ -15,7 +15,7 @@
 	<a href="#-é-não-é-faz-não-faz">É não é Faz Não Faz</a> •
 	<a href="#-canvas">Canvas</a> •
 	<a href="#-modelo-er">Modelo do Banco</a> •
-	<a href="#DescricaoSolucao">Descrição da Solução</a> •
+	<a href="#-dercrição-da-solução">Descrição da Solução</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-tecnologias">Tecnologias</a> •  
  	<a href="#validação">Validação</a> • 	
@@ -106,7 +106,7 @@ Arquitetura utilizada:
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/Arquitetura.png"">
 </a>
 											    
-## ⚙ Dercrição da Solução
+## 🗺️ Dercrição da Solução
 												 
 O Maxidash é uma aplicação web construída para fazer o gerenciamento de log’s de sistema e acompanhamento de relatórios. Através dele, é possível cadastrar um novo sistema e fazer o gerenciamento dos logs de execuções, para que os log’s sejam enviados para a aplicação MaxiDash, é necessário a inclusão de referencia a uma DLL no sistema que está sendo cadastrado.
 
@@ -115,7 +115,7 @@ O Maxidash é uma aplicação web construída para fazer o gerenciamento de log�
 Quanto ao fluxo de funcionamento, vou apresentar à seguir uma descrição detalhada sobre os passos que o usuário deve realizar para cadastrar um sistema ou evento de banco de banco de dados, avaliar um log de crítica e visualizar um relatórios.
 												 
 												 
-## [Validação](#validação)
+## 📜 Validação
 												 
 Para a validação do projeto, além de considerar os objetivos a serem atingidos, fiz utilização da ISO/IEC 25000 com ênfase no modelo 25010 de qualidade que compreende 7 principais características de qualidades e algumas sub-características, sendo as principais:
 												 
