@@ -16,7 +16,6 @@
 	<a href="#%EF%B8%8F-solução">Solução</a> •
 	<a href="#-canvas">Canvas</a> •
 	<a href="#-modelo-er">Modelo do Banco</a> •
-	<a href="#%EF%B8%8F-dercrição-da-solução">Descrição da Solução</a> •
 	<a href="#-layout">Layout</a> • 
  	<a href="#-tecnologias">Tecnologias</a> •  
  	<a href="#-validação">Validação</a> • 	
@@ -31,6 +30,8 @@
 ## 💻 Sobre o projeto
 
 MaxiDash- Trata-se de uma dashboard onde será possível acompanhar a execução das principais aplicações que rodam de forma autônoma na da empresa.
+
+O Maxidash é uma aplicação web construída para fazer o gerenciamento de log’s de sistema e acompanhamento de relatórios. Através dele, é possível cadastrar um novo sistema e fazer o gerenciamento dos logs de execuções, para que os log’s sejam enviados para a aplicação MaxiDash, é necessário a inclusão de referencia a uma DLL no sistema que está sendo cadastrado.
 
 ---			    							   			    
 
@@ -113,15 +114,7 @@ Arquitetura utilizada:
 <a href="https://github.com/betowiatrowski/MaxiDash/blob/main/Arquitetura.png">
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/Arquitetura.png"">
 </a>
-											    
-## 🗺️ Dercrição da Solução
-												 
-O Maxidash é uma aplicação web construída para fazer o gerenciamento de log’s de sistema e acompanhamento de relatórios. Através dele, é possível cadastrar um novo sistema e fazer o gerenciamento dos logs de execuções, para que os log’s sejam enviados para a aplicação MaxiDash, é necessário a inclusão de referencia a uma DLL no sistema que está sendo cadastrado.
-
-O Maxidash é uma aplicação web construída para fazer o gerenciamento de log’s de sistema e acompanhamento de relatórios. Através dele, é possível cadastrar um novo sistema e fazer o gerenciamento dos logs de execuções, para que os log’s sejam enviados para a aplicação MaxiDash, é necessário a inclusão de referencia a uma DLL no sistema que está sendo cadastrado.
-
-Quanto ao fluxo de funcionamento, vou apresentar à seguir uma descrição detalhada sobre os passos que o usuário deve realizar para cadastrar um sistema ou evento de banco de banco de dados, avaliar um log de crítica e visualizar um relatórios.
-												 
+											    									 
 												 
 ## 📜 Validação
 												 
