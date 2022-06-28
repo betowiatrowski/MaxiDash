@@ -151,6 +151,7 @@ Assim, escolhi algumas características que fossem possíveis que os usuários f
 </a>
 
 <strong> Adequação:</strong>
+
 <a href="https://github.com/betowiatrowski/MaxiDash/blob/main/adequacao.png">
   <img alt="https://github.com/betowiatrowski/MaxiDash/blob/main/adequacao.png"">
 </a>
