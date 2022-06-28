@@ -153,8 +153,9 @@ Assim, escolhi algumas características que fossem possíveis que os usuários f
 <strong> Adequação:</strong>
 
 <a href="https://github.com/betowiatrowski/MaxiDash/blob/main/adequacao.png">
-  <img alt="https://github.com/betowiatrowski/MaxiDash/blob/main/adequacao.png"">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/adequacao.png"">
 </a>
+										
 
 <strong> Confiabilidade:</strong>
 												 
