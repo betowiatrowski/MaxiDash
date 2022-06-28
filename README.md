@@ -129,11 +129,29 @@ Para a validação do projeto, além de considerar os objetivos a serem atingido
 7. Manutenção / Manutenibilidade	
 
 Assim, escolhi algumas características que fossem possíveis que os usuários fizessem uma avaliação de acordo com sua experiência de uso do sistema, a avaliação foi realizada através de um formulário do Google, as seguintes características segundo o modelo foram avaliadas: Adequação Funcional, Eficiência de desempenho, Usabilidade, Confiabilidade e Segurança. Portanto, concluí que de acordo com as avaliações dos usuários que acessaram o sistema e utilizaram a ferramenta pela primeira vez, o sistema atendeu às expectativas (conforme demonstrado nas imagens abaixo).
-												 
-<strong> Adequação:</strong>
+
+<strong> Perfil de usuário:</strong>
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/perfil.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/perfil.png"">
+</a>
+
+<strong> Usabilidade:</strong>
 												 
 <a href="https://github.com/betowiatrowski/MaxiDash/blob/main/usabilidade.png">
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/usabilidade.png"">
+</a>
+
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/usabilidade1.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/usabilidade1.png"">
+</a>
+
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/usabilidade2.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/usabilidade2.png"">
+</a>
+
+<strong> Adequação:</strong>
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/adequacao.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/adequacao.png"">
 </a>
 
 <strong> Confiabilidade:</strong>
@@ -147,7 +165,13 @@ Assim, escolhi algumas características que fossem possíveis que os usuários f
 <a href="https://github.com/betowiatrowski/MaxiDash/blob/main/seguranca.png">
   <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/seguranca.png"">
 </a>											   
-												   
+		
+<strong> Sugestões:</strong>
+												 
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/sugestoes.png">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/sugestoes.png"">
+</a>		
+
 												 
 ## [Conclusão](#conclusão)
 											 
