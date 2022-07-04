@@ -72,8 +72,8 @@ O Maxidash é uma aplicação web construída para fazer o gerenciamento de log�
 
 Canvas da aplicação:
 
-<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG">
-  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas.PNG"">
+<a href="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas1.PNG">
+  <img alt="MaxiDash" src="https://github.com/betowiatrowski/MaxiDash/blob/main/canvas1.PNG"">
 </a>
 
 ## 💱 Modelo ER
